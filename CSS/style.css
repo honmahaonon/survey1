@@ -3,6 +3,9 @@ h1 {
   font-size: 100px;
   margin: auto;
 }
+h2 {
+  font-size: 80px;
+}
 .content {
   background-color: lavender;
   width: 950px;
