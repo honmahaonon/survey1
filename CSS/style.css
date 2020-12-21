@@ -16,4 +16,9 @@ h1 {
   font-family: "YuGothic M";
   src: local("Yu Gothic Medium"),
        local("Yu Gothic");
+.btn {
+  background-color: snow;
+  color: black;
+  padding: 20px;
+  margin: center;
 }
