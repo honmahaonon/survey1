@@ -1,16 +1,16 @@
 @import url(sanitize.css);
 h1 {
-  font-size: 50px;
+  font-size: 100px;
   margin: auto;
 }
 .content {
-  background-color: whitesmoke;
-  width: 1000px;
+  background-color: lavender;
+  width: 950px;
   margin: 10px auto;
   border: 1px solid #111010;
   padding: 30px;
   font-family: "Yu Gothic", "游ゴシック", "YuGothic", "游ゴシック体";
-  font-size: 30px;
+  font-size: 60px;
 }
 @font-face {
   font-family: "YuGothic M";
@@ -24,5 +24,5 @@ h1 {
 }
 .btn p {
   display: inline-block;
-  width: 30px
+  width: 80px
 }
